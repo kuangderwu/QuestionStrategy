@@ -8,6 +8,8 @@
 
 import UIKit
 
+//First Commit to GitHub 這case 是 討論 Design Pattern 的 Strategy Example. 
+
 class QuestionGroupVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
 
     
